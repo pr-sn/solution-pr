@@ -1,0 +1,12 @@
+D:\Sohan\Solutions\TestSolution\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Sohan\Solutions\TestSolution\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Sohan\Solutions\TestSolution\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Sohan\Solutions\TestSolution\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Sohan\Solutions\TestSolution\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Sohan\Solutions\TestSolution\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Sohan\Solutions\TestSolution\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Sohan\Solutions\TestSolution\ConsoleApp1\bin\Debug\EntityFramework.dll
+D:\Sohan\Solutions\TestSolution\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sohan\Solutions\TestSolution\ConsoleApp1\bin\Debug\EntityFramework.xml
+D:\Sohan\Solutions\TestSolution\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sohan\Solutions\TestSolution\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
